@@ -5,6 +5,7 @@ import Navbar from './components/Navbar.vue'
 
 <template>
 <Navbar/>
+<p>ola</p>
 </template>
 
 <style scoped></style>
